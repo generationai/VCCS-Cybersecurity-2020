@@ -25,5 +25,3 @@ This lesson is for early and late undergraduate students. Students should be fam
 
 # Time to Teach this Lesson 
 This lesson can be taught in 2 sessions in one week
-
-1-hour prep, 2-hour class session; guided data analysis and independent work
